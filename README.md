@@ -5,6 +5,8 @@
 
 🔥🔒 Unlock the Secrets of Cybersecurity: A 100-Day Journey to Empowerment and Expertise! 💻🚀
 
+![CyberSecurity Day 01 to 100](https://github.com/AlbusSec/CyberSecurity-DAY-01-to-100/assets/64241933/c5d7b9a5-2f63-4e48-a731-4d7c02e427b0)
+
 </div>
 
 <div align="center">
