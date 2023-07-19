@@ -65,6 +65,8 @@ Check out the Cyber Security Day 01 to 100 Series on Medium for all the publishe
 | Day 02 Article | [CyberSecurity Day 01 To 100: Day 02](https://medium.com/@as745591/cybersecurity-day-01-to-100-day-02-bf42d309f0ea) |
 | Day 03 Article | [CyberSecurity Day 01 To 100: Day 03](https://medium.com/@as745591/cybersecurity-day-01-to-100-day-03-c87c7022f2cb) | 
 | Day 04 Article | [CyberSecurity Day 01 To 100: Day 04](https://medium.com/@as745591/cybersecurity-day-01-to-100-day-04-86aed47d3ac9) |
+| Day 05 Article | [CyberSecurity Day 01 To 100: Day 05](https://medium.com/@as745591/cybersecurity-day-01-to-100-day-05-ce89435ae644) |
+| Day 06 Article | [CyberSecurity Day o1 To 100: Day 06](https://medium.com/@as745591/cybersecurity-day-01-to-100-day-06-f9975fdf6d6e) | 
 
 ## 💎 Support
 
